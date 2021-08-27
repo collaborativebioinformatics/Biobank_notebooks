@@ -12,5 +12,6 @@ This content in this repository is delivered "As-Is". Notwithstanding anything t
 + Check spelling
 + Make sure that your json has line breaks (for line-specific comments)
 + Documentation in notebook or in a paired document
++ Add launch configuration
 
 ## To report a bug or feature request, please open an issue in the issue tracker.
